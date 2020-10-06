@@ -4,6 +4,8 @@ TaiXuan's Tool Library. A list of tools that TaiXuan use everyday.
 
 此项目中文名为“太玄的软件推荐”。不过经过考虑，更名为“钻石讲堂”，重新发布。
 
+内容目录见[目录](./目录.md)。
+
 ## 内容上的改变
 
 之前的介绍中，我仅仅介绍Linux系统上的开源软件。在以后的介绍中我将持更开放的心态，加入以下类别软件的介绍：
@@ -30,6 +32,10 @@ TaiXuan's Tool Library. A list of tools that TaiXuan use everyday.
 1. 费用：是否免费，收费方式，价格。
 
 ## Update Log
+
+2020.10.6
+
+增加目录。
 
 2018.10.29
 
